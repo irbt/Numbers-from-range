@@ -1,0 +1,15 @@
+C:\Mon_Code\Numbers from range\bin\Debug\net7.0\Numbers from range.exe
+C:\Mon_Code\Numbers from range\bin\Debug\net7.0\Numbers from range.deps.json
+C:\Mon_Code\Numbers from range\bin\Debug\net7.0\Numbers from range.runtimeconfig.json
+C:\Mon_Code\Numbers from range\bin\Debug\net7.0\Numbers from range.dll
+C:\Mon_Code\Numbers from range\bin\Debug\net7.0\Numbers from range.pdb
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.csproj.AssemblyReference.cache
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.AssemblyInfoInputs.cache
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.AssemblyInfo.cs
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.csproj.CoreCompileInputs.cache
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.dll
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\refint\Numbers from range.dll
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.pdb
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\Numbers from range.genruntimeconfig.cache
+C:\Mon_Code\Numbers from range\obj\Debug\net7.0\ref\Numbers from range.dll

@@ -7,7 +7,19 @@ namespace Programm{
             //création de la liste
             List <int> Numbers = new  List <int>{ 30, 54, 3, 14, 25, 82, 1, 100, 23, 95 };
 
+            // Création criteres custom
+            static int Modulo (int i , int j){
+                 return (i)%(j) ;
+                 }
             
+
+            // selectionner les entiers
+            var ArrInt = Numbers.Where(x=> x > 30).Where(x=> x < 100);
+
+            foreach (var item in ArrInt)
+            {
+                Console.Write (item + ", ");
+            }
 
         }
     }
