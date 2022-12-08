@@ -15,6 +15,7 @@ namespace Programm{
 
             // selectionner les entiers
             var ArrInt = Numbers.Where(x=> x > 30).Where(x=> x < 100);
+            
 
             foreach (var item in ArrInt)
             {
